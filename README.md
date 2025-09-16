@@ -40,7 +40,8 @@ This repository contains three distinct automation projects built with [n8n](htt
 
 ```
 
-![Workflow Diagram - News Summarizer](C:\Users\Adeel\Pictures\Agent_2.png)
+<img width="1101" height="215" alt="Agent_2" src="https://github.com/user-attachments/assets/9aff5477-ff3d-4829-86ca-57aca388de18" />
+
 
 ---
 
@@ -53,8 +54,8 @@ This repository contains three distinct automation projects built with [n8n](htt
 └─────────────┘    └──────────────────────┘    └──────────────┘
 
 ```
+<img width="835" height="302" alt="Agent_3" src="https://github.com/user-attachments/assets/5efd4d1f-774e-48f4-9570-182e5e810f18" />
 
-![Workflow Diagram - Language Buddy](C:\Users\Adeel\Pictures\Agent_3.png)
 
 ---
 
@@ -68,8 +69,8 @@ This repository contains three distinct automation projects built with [n8n](htt
 └───────────────┘
 
 ````
+<img width="922" height="381" alt="Agent_1" src="https://github.com/user-attachments/assets/546dab99-cffe-4292-b29f-081363a2d035" />
 
-![Workflow Diagram - Email Automation](C:\Users\Adeel\Pictures\Agent_1.png)
 
 ---
 
