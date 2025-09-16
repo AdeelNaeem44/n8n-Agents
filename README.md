@@ -98,10 +98,10 @@ This repository contains three distinct automation projects built with [n8n](htt
    - HTTP Request → AI Summarization → Sentiment Analysis → MongoDB Storage  
 
 2. **Language Buddy**  
-   - Webhook Trigger → Translation API → Return Translated Text  
+   - Telegram Trigger → Translation API → Return Translated Text  
 
 3. **Email Automation System**  
-   - Google Sheets → Personalized Email → Conditional Logic → Delivery  
+   - gmail → Personalized Email → Conditional Logic → Delivery  
 
 ---
 
